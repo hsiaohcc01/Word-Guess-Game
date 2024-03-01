@@ -1,5 +1,6 @@
 # Server-side Dynamic Site
 
+
 ## Goals
 This is a web-based word guessing game created with pure backend-generated HTML, avoiding the use of front-end JS. The game fosters cognitive skills and offers an engaging experience. Below are the instructions to play and enjoy the game.
 
@@ -22,7 +23,7 @@ This is a web-based word guessing game created with pure backend-generated HTML,
 Username Validity: Usernames are validated against an allowlist of characters, preventing unauthorized access.# Word-Guess-Game
 
 
-- Getting Started
+## Getting Started
 To run the project, follow these steps:
   - 1. Install the dependencies by running `npm install`.
   - 2. Start the project by running `npm run build`.
