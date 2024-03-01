@@ -5,7 +5,6 @@ This is a web-based word guessing game created with pure backend-generated HTML,
 
 
 ## Features
-
 - Login Form: Users are prompted to enter a username for login. Valid usernames grant access to game features while invalid ones receive appropriate feedback.
 - Game Page: Upon loading the page, users are greeted with the game interface, including:
   - Display of possible words for the secret word
@@ -20,4 +19,12 @@ This is a web-based word guessing game created with pure backend-generated HTML,
 - Different Support: Each user's game progress is independent of others, ensuring privacy and individualized experiences.
 - Case Insensitivity: Guesses are evaluated regardless of letter case, maintaining fairness and simplicity in gameplay.
 - Word Matching: Guesses are compared to the secret word to determine letter matches, facilitating the guessing process.
-Username Validity: Usernames are validated against an allowlist of characters, preventing unauthorized access.
+Username Validity: Usernames are validated against an allowlist of characters, preventing unauthorized access.# Word-Guess-Game
+
+
+- Getting Started
+To run the project, follow these steps:
+  - 1. Install the dependencies by running `npm install`.
+  - 2. Start the project by running `npm run build`.
+  - 3. Going to `http://localhost:3000`
+
